@@ -1,0 +1,20 @@
+# Backend
+Backend/.env
+Backend/node_modules/
+Backend/*.log
+Backend/logs/
+
+# Frontend
+AdminPanel/.env
+AdminPanel/node_modules/
+AdminPanel/build/
+AdminPanel/dist/
+AdminPanel/*.log
+
+# General
+node_modules/
+.DS_Store
+Thumbs.db
+*.tmp
+*.cache/
+*.pack
